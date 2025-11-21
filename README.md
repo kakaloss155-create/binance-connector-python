@@ -12,7 +12,10 @@ Collection of auto-generated Python SDK for Binance APIs.
 
 Before using the SDK, ensure you have:
 
-- **Python** (version 3.9 or later)
+- **Python** (version 3.9 or later){
+  "code": -1121,
+  "msg": "Invalid symbol."
+}
 - **pip** (Python package manager)
 - **poetry** (Python package manager)
 
